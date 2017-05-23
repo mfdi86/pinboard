@@ -1,0 +1,30 @@
+html {
+  background-image: url("../img/cork-board.jpg");
+  background-size: cover;
+}
+
+.parent {
+  height: 825px;
+  width: 768px;
+  position: relative;
+
+}
+
+.polaroid {
+  position: relative;
+  display: block;
+}
+
+.kitten-photo {
+  position: absolute;
+  top: 115px;
+  left: 131px;
+  display: block;
+  height: 640px;
+  width: 640px;
+
+}
+
+/*.container {
+  content:
+}*/
