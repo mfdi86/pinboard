@@ -7,11 +7,13 @@ html {
   height: 825px;
   width: 768px;
   position: relative;
+  margin: auto;
+  top: 130px;
 
 }
 
 .polaroid {
-  position: relative;
+  position: absolute;
   display: block;
 }
 
@@ -23,6 +25,12 @@ html {
   height: 640px;
   width: 640px;
 
+}
+
+.pin {
+  position: absolute;
+  top: -80px;
+  left: 250px;
 }
 
 /*.container {
